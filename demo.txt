@@ -1,1 +1,3 @@
 First line of demo.txt
+
+This is second line in demo.txt
